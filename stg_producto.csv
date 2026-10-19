@@ -1,0 +1,31 @@
+pk_producto,nombre,subcategoria,categoria,talla,color,precio
+1,Judogi Entrenamiento FUJI,Judogi de entrenamiento,Judogis,1,Blanco,180.00
+2,Judogi Entrenamiento FUJI,Judogi de entrenamiento,Judogis,2,Blanco,180.00
+3,Judogi Entrenamiento FUJI,Judogi de entrenamiento,Judogis,3,Blanco,180.00
+4,Judogi Entrenamiento FUJI,Judogi de entrenamiento,Judogis,4,Blanco,180.00
+5,Judogi Competición FUJI,Judogi de competición,Judogis,2,Blanco,420.00
+6,Judogi Competición FUJI,Judogi de competición,Judogis,3,Blanco,420.00
+7,Judogi Competición FUJI,Judogi de competición,Judogis,4,Blanco,420.00
+8,Judogi Competición FUJI,Judogi de competición,Judogis,5,Blanco,420.00
+9,Judogi Infantil FUJI,Judogi infantil,Judogis,0,Blanco,140.00
+10,Judogi Infantil FUJI,Judogi infantil,Judogis,1,Blanco,140.00
+11,Judogi Infantil FUJI,Judogi infantil,Judogis,2,Blanco,140.00
+12,Cinturón FUJI,Cinturón,Cinturones,Única,Blanco,35.00
+13,Cinturón FUJI,Cinturón,Cinturones,Única,Amarillo,35.00
+14,Cinturón FUJI,Cinturón,Cinturones,Única,Naranja,35.00
+15,Cinturón FUJI,Cinturón,Cinturones,Única,Verde,35.00
+16,Cinturón FUJI,Cinturón,Cinturones,Única,Azul,35.00
+17,Cinturón FUJI,Cinturón,Cinturones,Única,Marrón,35.00
+18,Cinturón FUJI,Cinturón,Cinturones,Única,Negro,35.00
+19,Rashguard FUJI,Poleras,Ropa deportiva,S,Negro,85.00
+20,Rashguard FUJI,Poleras,Ropa deportiva,M,Negro,85.00
+21,Rashguard FUJI,Poleras,Ropa deportiva,L,Negro,85.00
+22,Rashguard FUJI,Poleras,Ropa deportiva,XL,Negro,85.00
+23,Short de entrenamiento FUJI,Shorts,Ropa deportiva,S,Negro,70.00
+24,Short de entrenamiento FUJI,Shorts,Ropa deportiva,M,Negro,70.00
+25,Short de entrenamiento FUJI,Shorts,Ropa deportiva,L,Negro,70.00
+26,Bolso deportivo FUJI,Bolsos,Accesorios,Única,Negro,160.00
+27,Protector bucal,Bucal,Protección,Única,Transparente,25.00
+28,Rodillera FUJI,Rodilleras,Protección,S,Negro,55.00
+29,Rodillera FUJI,Rodilleras,Protección,M,Negro,55.00
+30,Rodillera FUJI,Rodilleras,Protección,L,Negro,55.00

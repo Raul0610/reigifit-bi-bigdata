@@ -1,0 +1,301 @@
+pk_cliente,nombre,distrito
+1,Miguel Gutiérrez Díaz,Trujillo
+2,Valeria Herrera Mendoza,Callao
+3,Andrea Morales Morales,San Juan de Lurigancho
+4,Paola Ortiz Fernández,Callao
+5,Milagros Silva Sánchez,Ate
+6,Carmen Rivera Ramos,Miraflores
+7,José Mendoza Huamán,Callao
+8,Bruno Quispe Medina,Callao
+9,María Campos Gutiérrez,Santiago de Surco
+10,Sebastián Salazar Muñoz,San Borja
+11,Marco Córdova Díaz,San Juan de Lurigancho
+12,Fiorella Gutiérrez Rojas,San Juan de Lurigancho
+13,Fabián Huamán Rivera,San Isidro
+14,Valeria Vega Vega,San Juan de Lurigancho
+15,Luis Herrera Vega,San Borja
+16,Bruno Cruz Rojas,Los Olivos
+17,Carmen Fernández Sánchez,Callao
+18,Ángel Díaz Aguilar,Ate
+19,Rosa Navarro Sánchez,Los Olivos
+20,Ana Chávez Herrera,Los Olivos
+21,Claudia Sánchez Díaz,Comas
+22,Luis Ortiz Ramos,Ate
+23,Sofía Flores Vega,Comas
+24,Camila Mendoza Vega,San Juan de Lurigancho
+25,María Torres Sánchez,Callao
+26,Gabriela Navarro Mendoza,San Juan de Lurigancho
+27,Bruno Campos Sánchez,San Miguel
+28,Lucía Chávez Fernández,Los Olivos
+29,Fabián Fernández Aguilar,Villa El Salvador
+30,Daniela Sánchez Aguilar,Callao
+31,Ángel Castillo Huamán,Callao
+32,Luis Flores Torres,Villa El Salvador
+33,Rosa Rivera Aguilar,Comas
+34,María Salazar Muñoz,Santiago de Surco
+35,Daniela Sánchez Rivera,Comas
+36,Sofía Sánchez Aguilar,Los Olivos
+37,Camila Muñoz Flores,Callao
+38,Jorge Rivera Muñoz,Callao
+39,Bruno Vega Vega,Ate
+40,Ana Chávez Rivera,Arequipa
+41,Diego Cruz Medina,San Miguel
+42,José Reyes Chávez,Huacho
+43,Pedro Mendoza Castillo,San Miguel
+44,Ángel Torres Rivera,Arequipa
+45,José Quispe Rivera,San Juan de Lurigancho
+46,Claudia Medina Rojas,San Juan de Lurigancho
+47,Andrés Ramos Mendoza,San Juan de Lurigancho
+48,Milagros Fernández Chávez,Villa El Salvador
+49,Valeria Salazar Torres,Miraflores
+50,Camila Ortiz Ortiz,Ate
+51,Gabriela Sánchez Vega,San Miguel
+52,Juan Fernández Ramos,Comas
+53,Juan Morales Navarro,Villa El Salvador
+54,Fabián Rojas Cruz,Villa El Salvador
+55,Claudia Torres Aguilar,Ate
+56,Carmen Huamán Díaz,Los Olivos
+57,Paola Torres Díaz,Callao
+58,Marco Quispe Mendoza,Los Olivos
+59,José Flores Medina,San Borja
+60,Pedro Muñoz Silva,Arequipa
+61,Luis Díaz Sánchez,San Borja
+62,Fabián Rivera Gutiérrez,Arequipa
+63,María Rivera Ortiz,San Juan de Lurigancho
+64,Diego Torres Ortiz,Comas
+65,Ángel Morales Gutiérrez,Los Olivos
+66,Renato Campos Vega,Miraflores
+67,Marco Flores Castillo,Villa El Salvador
+68,Diego Flores Reyes,San Juan de Lurigancho
+69,Sofía Flores Rivera,Callao
+70,Valeria Castillo Sánchez,San Miguel
+71,Andrea Quispe Torres,Villa El Salvador
+72,Andrés Aguilar Navarro,Comas
+73,Juan Vargas Campos,Callao
+74,Marco Chávez Cruz,Comas
+75,Gabriela Rojas Paredes,La Molina
+76,Pedro Vargas Chávez,Los Olivos
+77,Milagros Medina Cruz,La Molina
+78,Diego Gutiérrez Díaz,Comas
+79,Miguel Díaz Aguilar,Comas
+80,Sebastián Medina Mendoza,Callao
+81,Renato Quispe Rojas,Callao
+82,Valeria Gutiérrez Cruz,San Juan de Lurigancho
+83,Sofía Herrera Herrera,Villa El Salvador
+84,Luis Salazar Herrera,San Isidro
+85,Lucía Campos Ortiz,Ate
+86,Andrés Mendoza Morales,San Miguel
+87,Lucía Silva Ortiz,San Miguel
+88,Carmen Huamán Ortiz,La Molina
+89,Lucía Torres Mendoza,Ate
+90,Miguel Cruz Vargas,Miraflores
+91,Carlos Silva Salazar,San Miguel
+92,Diego Reyes Reyes,Miraflores
+93,Jorge Chávez Ortiz,Callao
+94,Fabián Muñoz Gutiérrez,Santiago de Surco
+95,Sebastián Rojas Quispe,Los Olivos
+96,Andrea Navarro Silva,Santiago de Surco
+97,Luis Flores Mendoza,Santiago de Surco
+98,Fabián Mendoza Mendoza,Villa El Salvador
+99,Carmen Muñoz Herrera,San Borja
+100,Milagros Rivera Morales,San Juan de Lurigancho
+101,Daniela Morales Flores,Arequipa
+102,Jorge Morales Castillo,San Juan de Lurigancho
+103,Ángel Campos Navarro,San Isidro
+104,Pedro Herrera Díaz,Villa El Salvador
+105,Claudia Chávez Paredes,La Molina
+106,Sofía Salazar Flores,San Miguel
+107,Ángel Navarro Quispe,La Molina
+108,Jorge Huamán Córdova,Trujillo
+109,Paola Muñoz Mendoza,La Molina
+110,Ángel Gutiérrez Ortiz,Huacho
+111,Lucía Gutiérrez Castillo,San Juan de Lurigancho
+112,Fiorella Mendoza Vargas,San Juan de Lurigancho
+113,Miguel Flores Torres,Comas
+114,Rosa Reyes Reyes,La Molina
+115,Ángel Ortiz Torres,San Borja
+116,Marco Paredes Ramos,Ate
+117,Camila Ramos Silva,San Isidro
+118,Lucía Quispe Campos,San Miguel
+119,Lucía Campos Fernández,Los Olivos
+120,Sebastián Aguilar Torres,Santiago de Surco
+121,Luis Chávez Fernández,Comas
+122,Sebastián Gutiérrez Torres,Arequipa
+123,Carmen Rojas Medina,Santiago de Surco
+124,Carlos Reyes Herrera,Trujillo
+125,Ana Medina Chávez,San Borja
+126,Ana Silva Córdova,La Molina
+127,Camila Medina Quispe,San Juan de Lurigancho
+128,Renato Sánchez Flores,Trujillo
+129,Camila Díaz Herrera,San Isidro
+130,Fiorella Navarro Herrera,Los Olivos
+131,Pedro Aguilar Ramos,San Juan de Lurigancho
+132,Sebastián Gutiérrez Herrera,Santiago de Surco
+133,Pedro Rivera Reyes,Los Olivos
+134,Paola Sánchez Navarro,Ate
+135,Carmen Huamán Castillo,San Isidro
+136,Ángel Torres Sánchez,Huacho
+137,Pedro Medina Medina,Comas
+138,Ángel Aguilar Flores,San Juan de Lurigancho
+139,José Huamán Salazar,San Juan de Lurigancho
+140,Sebastián Torres Vega,San Miguel
+141,Andrea Quispe Fernández,Santiago de Surco
+142,Gabriela Vega Ortiz,La Molina
+143,Carlos Paredes Paredes,San Juan de Lurigancho
+144,Ana Aguilar Reyes,Villa El Salvador
+145,Ana Mendoza Rojas,San Isidro
+146,Marco Gutiérrez Fernández,Santiago de Surco
+147,Carlos Córdova Ortiz,Villa El Salvador
+148,Andrés Vargas Navarro,La Molina
+149,Lucía Huamán Salazar,San Isidro
+150,Marco Castillo Córdova,San Juan de Lurigancho
+151,Gabriela Morales Reyes,Comas
+152,Ángel Salazar Aguilar,Ate
+153,Milagros Navarro Fernández,Santiago de Surco
+154,Ana Quispe Vargas,La Molina
+155,Juan Vargas Quispe,Callao
+156,Ana Campos Navarro,San Miguel
+157,Milagros Quispe Medina,San Borja
+158,Pedro Huamán Castillo,Comas
+159,Rosa Morales Ramos,San Isidro
+160,Jorge Sánchez Mendoza,Callao
+161,Fiorella Rojas Paredes,Santiago de Surco
+162,Fabián Reyes Mendoza,San Borja
+163,Claudia Sánchez Mendoza,San Juan de Lurigancho
+164,Renato Medina Salazar,Villa El Salvador
+165,Bruno Muñoz Ortiz,San Borja
+166,José Silva Rojas,Callao
+167,Milagros Huamán Chávez,Ate
+168,Renato Vargas Gutiérrez,Los Olivos
+169,Lucía Gutiérrez Gutiérrez,Huacho
+170,Fiorella Campos Herrera,Comas
+171,Jorge Vargas Castillo,Callao
+172,Renato Herrera Vega,Arequipa
+173,Milagros Aguilar Salazar,Los Olivos
+174,Paola Ortiz Paredes,Santiago de Surco
+175,Bruno Córdova Ortiz,Villa El Salvador
+176,Juan Cruz Chávez,San Borja
+177,Miguel Gutiérrez Chávez,Callao
+178,Bruno Chávez Torres,San Juan de Lurigancho
+179,Sebastián Ramos Gutiérrez,Trujillo
+180,Lucía Silva Mendoza,La Molina
+181,Carmen Rivera Reyes,Los Olivos
+182,Luis Fernández Vega,San Borja
+183,Ángel Gutiérrez Mendoza,Villa El Salvador
+184,Claudia Sánchez Muñoz,Villa El Salvador
+185,Valeria Medina Campos,Ate
+186,Ana Castillo Cruz,San Borja
+187,Jorge Flores Muñoz,Los Olivos
+188,Diego Quispe Chávez,San Juan de Lurigancho
+189,Sebastián Torres Gutiérrez,San Juan de Lurigancho
+190,Rosa Cruz Medina,Ate
+191,María Herrera Navarro,Comas
+192,Luis Flores Silva,Santiago de Surco
+193,Miguel Campos Herrera,Arequipa
+194,Jorge Quispe Silva,Santiago de Surco
+195,Bruno Díaz Chávez,San Juan de Lurigancho
+196,Pedro Rojas Fernández,Villa El Salvador
+197,Lucía Silva Quispe,Cusco
+198,Juan Gutiérrez Ramos,Arequipa
+199,Andrés Morales Campos,Santiago de Surco
+200,Fabián Rojas Ortiz,Los Olivos
+201,Ana Campos Ortiz,San Juan de Lurigancho
+202,Miguel Quispe Chávez,Arequipa
+203,Carlos Vargas Fernández,San Miguel
+204,Renato Muñoz Sánchez,Villa El Salvador
+205,Jorge Gutiérrez Salazar,La Molina
+206,María Chávez Sánchez,Callao
+207,Sofía Chávez Flores,Villa El Salvador
+208,Juan Quispe Sánchez,Callao
+209,Sebastián Medina Silva,Comas
+210,Pedro Chávez Díaz,Callao
+211,Marco Huamán Castillo,San Juan de Lurigancho
+212,Sofía Cruz Herrera,Miraflores
+213,Fiorella Reyes Campos,Comas
+214,Lucía Silva Herrera,La Molina
+215,María Morales Rojas,Callao
+216,Ana Morales Gutiérrez,Comas
+217,Camila Gutiérrez Salazar,Santiago de Surco
+218,Lucía Herrera Aguilar,Santiago de Surco
+219,Sebastián Herrera Díaz,Comas
+220,Marco Reyes Mendoza,Arequipa
+221,Andrés Quispe Rivera,Santiago de Surco
+222,Ángel Díaz Herrera,Comas
+223,Ana Castillo Aguilar,Callao
+224,Milagros Herrera Vega,Comas
+225,Lucía Campos Medina,Callao
+226,Pedro Reyes Paredes,Comas
+227,Fiorella Fernández Castillo,San Isidro
+228,Lucía Vega Torres,San Miguel
+229,Juan Aguilar Medina,Ate
+230,Carmen Flores Aguilar,Villa El Salvador
+231,Carlos Chávez Aguilar,La Molina
+232,Sofía Vargas Torres,Santiago de Surco
+233,Lucía Vega Salazar,San Isidro
+234,Diego Vargas Vega,Miraflores
+235,Diego Campos Torres,Los Olivos
+236,Rosa Sánchez Muñoz,San Juan de Lurigancho
+237,Luis Huamán Ramos,Comas
+238,Andrea Fernández Rojas,Comas
+239,Fiorella Cruz Torres,Huacho
+240,Juan Vega Díaz,Miraflores
+241,Luis Flores Mendoza,San Borja
+242,Gabriela Vega Vega,Callao
+243,Sebastián Gutiérrez Silva,Miraflores
+244,Ana Castillo Herrera,Callao
+245,Ángel Campos Cruz,Santiago de Surco
+246,Sofía Vargas Ramos,Santiago de Surco
+247,María Castillo Salazar,San Isidro
+248,Gabriela Cruz Córdova,Los Olivos
+249,Gabriela Salazar Vega,Santiago de Surco
+250,Fabián Reyes Córdova,Los Olivos
+251,Lucía Morales Sánchez,Miraflores
+252,Andrea Castillo Córdova,Santiago de Surco
+253,Milagros Rojas Salazar,San Miguel
+254,Rosa Vega Vargas,San Isidro
+255,Andrés Reyes Cruz,Santiago de Surco
+256,Ángel Quispe Fernández,Trujillo
+257,Valeria Navarro Muñoz,San Juan de Lurigancho
+258,Sebastián Huamán Córdova,San Borja
+259,Luis Sánchez Díaz,Los Olivos
+260,Sebastián Medina Salazar,Comas
+261,Juan Mendoza Aguilar,San Isidro
+262,Renato Salazar Rivera,Los Olivos
+263,Valeria Ortiz Flores,Arequipa
+264,Camila Fernández Gutiérrez,Ate
+265,Camila Rojas Rivera,Comas
+266,Lucía Medina Aguilar,Comas
+267,Ana Mendoza Medina,La Molina
+268,Carlos Rojas Ortiz,Miraflores
+269,Ana Muñoz Rivera,San Juan de Lurigancho
+270,Marco Aguilar Reyes,Ate
+271,Bruno Morales Sánchez,San Juan de Lurigancho
+272,Juan Navarro Gutiérrez,San Isidro
+273,Miguel Paredes Rojas,Santiago de Surco
+274,Gabriela Chávez Quispe,Trujillo
+275,Fiorella Rojas Silva,San Juan de Lurigancho
+276,Miguel Córdova Herrera,Huacho
+277,Daniela Torres Huamán,Trujillo
+278,Renato Gutiérrez Vega,Huacho
+279,Daniela Ramos Paredes,Santiago de Surco
+280,Gabriela Herrera Gutiérrez,Los Olivos
+281,María Ramos Morales,Santiago de Surco
+282,Andrés Silva Mendoza,San Juan de Lurigancho
+283,Carmen Paredes Sánchez,Comas
+284,María Castillo Paredes,San Miguel
+285,Ana Rivera Aguilar,San Isidro
+286,Renato Herrera Díaz,La Molina
+287,Milagros Cruz Herrera,San Miguel
+288,Luis Salazar Morales,Callao
+289,Diego Díaz Mendoza,San Juan de Lurigancho
+290,Paola Castillo Ortiz,Miraflores
+291,Diego Rivera Paredes,Callao
+292,Paola Mendoza Aguilar,Cusco
+293,Marco Quispe Ramos,Santiago de Surco
+294,Sebastián Silva Aguilar,Santiago de Surco
+295,Sebastián Muñoz Salazar,Miraflores
+296,Diego Muñoz Muñoz,Miraflores
+297,Daniela Medina Reyes,Ate
+298,Lucía Mendoza Navarro,Los Olivos
+299,Camila Flores Salazar,Trujillo
+300,Daniela Rivera Medina,Trujillo
