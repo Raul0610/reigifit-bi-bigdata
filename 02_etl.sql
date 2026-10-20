@@ -34,11 +34,13 @@ select c.pk_cliente, ltrim(rtrim(c.nombre)), ltrim(rtrim(c.distrito)),
 from stg_cliente c
 where not exists (select 1 from dim_cliente d where d.pk_cliente = c.pk_cliente)
 go
+
 insert into dim_producto (pk_producto, nombre, subcategoria, categoria, talla, color, precio)
 select p.pk_producto, ltrim(rtrim(p.nombre)), p.subcategoria, p.categoria, p.talla, p.color, p.precio
 from stg_producto p
 where not exists (select 1 from dim_producto d where d.pk_producto = p.pk_producto)
 go
+
 insert into dim_canal (pk_canal, nombreCanal, grupoCanal)
 select v.pk, v.nombre, v.grupo
 from (values (1,'WhatsApp','Mensajería directa'),
@@ -46,6 +48,7 @@ from (values (1,'WhatsApp','Mensajería directa'),
              (3,'Tienda en línea','Tienda en línea')) v(pk, nombre, grupo)
 where not exists (select 1 from dim_canal d where d.pk_canal = v.pk)
 go
+
 insert into dim_metodoPago (pk_metodoP, nombreMetodo, tipoPago)
 select v.pk, v.nombre, v.tipo
 from (values (1,'Yape','Billetera digital'),
