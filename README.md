@@ -1,4 +1,4 @@
-🚀 Descripción de Componentes
+ Descripción de Componentes
 
 1. sql/
 
@@ -26,7 +26,7 @@ dashboard_reigifit.pbix: Archivo de Power BI Desktop con el modelo dimensional y
 
 evidencias/: Capturas de pantalla, logs de ejecución e historial de pruebas.
 
-🛠️ Instrucciones de Ejecución
+ Instrucciones de Ejecución
 
 Sigue estos pasos en orden para poner en marcha el proyecto:
 
